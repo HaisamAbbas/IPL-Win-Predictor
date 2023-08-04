@@ -1,5 +1,3 @@
-# IPL-Win-Predictor
-
 # IPL Score Predictor
 
 ## Description
@@ -26,7 +24,7 @@ The IPL Score Predictor is an advanced machine learning project that aims to pre
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/username/ipl-score-predictor.git
+git clone https://github.com/HaisamAbbas/ipl-score-predictor.git
 
 
 2. Navigate to the project directory:
